@@ -1,2 +1,2 @@
-# MemeNetwork.github.io
-MemeNetwork.github.io OFFICIAL Meme Network. Website
+# Meme Network.
+The official Meme Network. Website
